@@ -1,0 +1,16 @@
+body 
+	{background-image: url(2.jpg); 
+	background-size: cover; }
+h1 
+	{outline-style:double; outline-color: brown }
+p 
+	{font-family: serif;
+	line-height: 1,75cm}
+h2 
+	{font-family: sans-serif; 
+	color: darkgoldenrod;
+	font-size: 26px}
+h3 
+	{margin-left: : 5cm}
+img 
+	{border-radius: 50px}
